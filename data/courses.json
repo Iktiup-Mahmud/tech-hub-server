@@ -7,7 +7,7 @@
         "price": "$29.99",
         "duration": "12 Hour",
         "total_enroll": "12,000",
-        "rating": "4.5",
+        "rating": "4.5/5",
         "author": {
             "author_name": "Maximilian E.",
             "author_img": "https://img-c.udemycdn.com/user/200_H/34868866_da07_3.jpg"
@@ -16,12 +16,12 @@
     {
         "id": 2,
         "name": "The Complete Python/PostgreSQL Course 2.0",
-        "description": "Take the next step in your Python development by leveraging the power of PostgreSQL and databases!How to leverage the power of databases (in-memory, SQLite, and PostgreSQL) to upgrade your Python applicationsPrevent common pitfalls: avoid SQL injection attacks, store database credentials securely, and optimize the performance of your applicationsUnderstand how databases work and how to take advantage of their features from the ground up, by building multiple projectsThis is a no-nonsense, no-frills course on fully mastering PostgreSQL and how to use it effective within and outside of your Python apps",
+        "description": "Take the next step in your Python development by leveraging the power of PostgreSQL and databases!How to leverage the power of databases (in-memory, SQLite, and PostgreSQL) to upgrade your Python applications. Prevent common pitfalls: avoid SQL injection attacks, store database credentials securely, and optimize the performance of your applications. Understand how databases work and how to take advantage of their features from the ground up, by building multiple projects. This is a no-nonsense, no-frills course on fully mastering PostgreSQL and how to use it effective within and outside of your Python apps",
         "image": "https://dkrn4sk0rn31v.cloudfront.net/uploads/2018/09/18115931/sql-injection-python.png",
         "price": "$120.99",
         "duration": "12 Hour",
         "total_enroll": "58,730",
-        "rating": "4.5",
+        "rating": "4.5/5",
         "author": {
             "author_name": "Seyam",
             "author_img": "https://img-c.udemycdn.com/user/200_H/34868866_da07_3.jpg"
@@ -30,12 +30,12 @@
     {
         "id": 3,
         "name": "Web Developer Bootcamp with Flask and Python in 2022",
-        "description": "Become a Full Stack Web Developer using Flask, Python, HTML, CSS, and MongoDB! Fully updated for 2022 and beyond.Build complete, dynamic websites for your freelance projects or businessDesign, develop, and deploy full- stack web apps using Flask, Python, HTML, and CSSCreate your own portfolio website to showcase all your projectsBecome a true HTML and CSS professional without the need for complicated JavaScript, or stop - gap solutions like Bootstrap and jQuery",
+        "description": "Become a Full Stack Web Developer using Flask, Python, HTML, CSS, and MongoDB! Fully updated for 2022 and beyond.Build complete, dynamic websites for your freelance projects or business. Design, develop, and deploy full- stack web apps using Flask, Python, HTML, and CSS. Create your own portfolio website to showcase all your projectsBecome a true HTML and CSS professional without the need for complicated JavaScript, or stop - gap solutions like Bootstrap and jQuery",
         "image": "https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=600/api/page/6196871006519296/image/download/6316021754363904",
         "price": "$12.99",
         "duration": "12 Hour",
         "total_enroll": "54,150",
-        "rating": "4.5",
+        "rating": "4.5/5",
         "author": {
             "author_name": "Seyam",
             "author_img": "https://img-c.udemycdn.com/user/200_H/34868866_da07_3.jpg"
@@ -43,13 +43,13 @@
     },
     {
         "id": 4,
-        "name": "Complete Python Developer in 2022: Zero to Mastery",
-        "description": "How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web Development, Machine Learning + more!Become a professional Python Developer and get hiredMaster modern Python 3.10(latest) fundamentals as well as advanced topicsLearn Object Oriented ProgrammingLearn Function Programming",
-        "image": "https://google.com",
+        "name": "The Complete Ethical Hacking Absolute Beginners Course",
+        "description": "Learn Ethical Hacking, Types, Terminologies, Tools, Skills, Process, Reconnaissance, Footprinting, Fingerprinting & more.Students will be able to Learn Ethical Hacking. Students will be able to Learn Types of Ethical Hacking. Students will be able to Learn Types of Terminologies. Students will be able to Learn Types of Tools",
+        "image": "https://www.invensislearning.com/blog/wp-content/uploads/2020/11/Top-Ethical-Hacking-Tools-of-2020-1068x552-1.jpg",
         "price": "$83.99",
         "duration": "12 Hour",
         "total_enroll": "54,150",
-        "rating": "4.5",
+        "rating": "4.5/5",
         "author": {
             "author_name": "Seyam",
             "author_img": "https://img-c.udemycdn.com/user/200_H/34868866_da07_3.jpg"
@@ -57,27 +57,27 @@
     },
     {
         "id": 5,
-        "name": "Python",
-        "description": "bla bla bla",
-        "image": "https://google.com",
-        "price": "$12",
+        "name": "The C++20 Masterclass : From Fundamentals to Advanced",
+        "description": "Learn and Master Modern C++ From Beginning to Advanced in Plain English : C++11, C++14, C++17, C++20 and More!Learn how to use modern C++ to write code which is safer, more expressive and more efficientThrorough coverage of C++11, C++14 and the most important features of C++17.",
+        "image": "https://images.idgesg.net/images/article/2019/03/c-plus-plus_code-100790020-large.jpg?auto=webp&quality=85,70",
+        "price": "$35.99",
         "duration": "12 Hour",
         "total_enroll": "54,150",
-        "rating": "4.5",
+        "rating": "4.5/5",
         "author": {
-            "author_name": "Seyam",
+            "author_name": "James Raynard",
             "author_img": "https://img-c.udemycdn.com/user/200_H/34868866_da07_3.jpg"
         }
     },
     {
         "id": 6,
-        "name": "Python",
-        "description": "bla bla bla",
-        "image": "https://google.com",
-        "price": "$12",
+        "name": "Learn Advanced Modern C++",
+        "description": "Take your knowledge of C++ to the next level!Know and understand all the important features of modern C++.Acquire a good knowledge of the Standard Template Library, including algorithms (the best-kept secret in C++).Learn how to use modern C++ to write code which is safer, more expressive and more efficient. Throrough coverage of C++11, C++14 and the most important features of C++17.",
+        "image": "https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648",
+        "price": "$48.99",
         "duration": "12 Hour",
         "total_enroll": "54,150",
-        "rating": "4.5",
+        "rating": "4.5/5",
         "author": {
             "author_name": "Iktiup M.",
             "author_img": "https://img-c.udemycdn.com/user/200_H/34868866_da07_3.jpg"
